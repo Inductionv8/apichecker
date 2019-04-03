@@ -1,0 +1,23 @@
+{
+  "name": "apichecker",
+  "version": "1.0.0",
+  "description": "The principle of this project is to develop multiple tools that allow me to test my test account.",
+  "main": "index.js",
+  "dependencies": {
+    "googleapis": "^27.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inductionv8/apichecker.git"
+  },
+  "author": "Luca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inductionv8/apichecker/issues"
+  },
+  "homepage": "https://github.com/Inductionv8/apichecker#readme"
+}
